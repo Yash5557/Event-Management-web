@@ -1,0 +1,6 @@
+{
+  "name": "CampusPass - College Event Portal & Pass System",
+  "description": "A high-conversion college event management and digital pass portal for students and campus organizers with real-time seat quotas, attendee roster, and verifiable digital entry passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
